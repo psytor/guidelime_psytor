@@ -1,18 +1,18 @@
 Guidelime.registerGuide(
 [[
-[D1-6 Blood Elf, Rogue - A guide created by *Psytor*]
-[GA Rogue,BloodElf]
-[N1-6 Psytor Blood Elf - Rogue Guide]
+[D1-6 Blood Elf, Hunter - A guide created by *Psytor*]
+[GA Hunter,BloodElf]
+[N1-6 Psytor Blood Elf - Hunter Guide]
 
 All Credits goes to *Psytor* on Nethergarde Keep.
 Go to Magistrix Erona and Accept: [QA8325 Reclaiming Sunstrider Isle]
 Go to [G37.69,24.9Eversong Woods] and kill all the Mana Wyrms on your way that you need for[QC8325 Reclaiming Sunstrider Isle]
 Return to Magistrix Erona and Turn in [QT8325 Reclaiming Sunstrider Isle]
-Accept your class quest [QA9392 Rogue Training] and also [QA8326 Unfortunate Measures]
+Accept your class quest [QA9393 Hunter Training] and also [QA8326 Unfortunate Measures]
 [V] Go sell your inventory you don't need at [G38.66,20.33Eversong Woods]
-Turn in your class quest [QT9392 Rogue Training] and accept [QA10071 Well Watcher Solanian]
+Turn in your class quest [QT9393 Hunter Training] and accept [QA10070 Well Watcher Solanian]
 [T] Learn your Level 2 Skills
-Go to Well Watcher Solanian on the upper level turn in [QT10071 Well Watcher Solanian] and accept [QA8345 The Shrine of Dath'Remar] and [QA8330 Solanian's Belongings]
+Go to Well Watcher Solanian on the upper level turn in [QT10070 Well Watcher Solanian] and accept [QA8345 The Shrine of Dath'Remar] and [QA8330 Solanian's Belongings]
 Jump straight down to Arcanist Ithanas and accept [QA8336 Fistful of Slivers]
 Go through the building to Arcanist Helion and accept [QA8346 Thirst Unending]
 Equip the *Sunstrider Book Satchel* for 4 more slots.
@@ -25,7 +25,6 @@ Go to Magistrix Erona and Turn In: [QT8326 Unfortunate Measures] Accept: [QA8327
 Kill mobs until you are Level [XP4]
 [V] Make sure to equip best equipment and go sell your inventory you don't need at [G38.66,20.33Eversong Woods]
 [T] Learn your Level 4 Skills
-From now on, everytime you attack humanoids, try to *Pick Pocket* them
 Now go to [QT8327Report to Lanthan Perilon] and accept [QA8334 Aggression]
 [G31.33,22.74Eversong Woods] On your way to pick up the *Scroll of Scourge Magic* for [QC8330 Solanian's Belongings], *Kill the Tenders*.
 Now go to [QC8345 The Shrine of Dath'Remar] and also finish [QC8334 Aggression]
