@@ -29,9 +29,10 @@ Now go to [QT8327Report to Lanthan Perilon] and accept [QA8334 Aggression]
 [G31.33,22.74Eversong Woods] On your way to pick up the *Scroll of Scourge Magic* for [QC8330 Solanian's Belongings], *Kill the Tenders*.
 Now go to [QC8345 The Shrine of Dath'Remar] and also finish [QC8334 Aggression]
 Go back to Well Watcher Solanian and turn in: [QT8330 Solanian's Belongings] [QT8345 The Shrine of Dath'Remar]
+[V] Make sure to equip best equipment and go sell your inventory you don't need at [G48.48,45.9Eversong Woods]
 Go to Lanthan Perilon and turn in: [QT8334 Aggression] and accept [QA8335 Felendren the Banished]
 Follow the path on your Left to the Falthrien Academy and find [QC8335 Felendren the Banished] on the top floor. Kill everything on the way to complete:
-In your inventory you should find *Tainted Arcane Sliver* activate it to accept [QA8338 Tainted Arcane Sliver]
+In your inventory you should find *Tainted Arcane Sliver* activate it to accept [QA8338 Tainted Arcane Sliver] if not kill more *Tainted Arcane Wraith* to loot one
 [H] Hearthstone Back
 Go to Arcanist Helion turn in [QT8338 Tainted Arcane Sliver]
 Next go to Lanthan Perilon turn in [QT8335 Felendren the Banished] and Accept [QA8347 Aiding the Outrunners]
