@@ -48,15 +48,15 @@ From Aeldon Sunbrand [QA8463 Unstable Mana Crystals]
 From the Wanted posted [QA8468 Wanted: Thaelis the Hungerer]
 On your way to the [QC8468 Wanted: Thaelis the Hungerer] kill everything on the way and also find the *Unstable Mana Crystal*
 Make your way back to Falconwing Square complete [QC8472 Major Malfunction] [QC8463 Unstable Mana Crystals]
-Go back to Magister Rajonis turn in [QT8472 Major Malfunction] and accept [QA8895 Delivery to the North Sanctum]
+Go back to Magister Rajonis turn in [QT8472 Major Malfunction]
 Then to Sergeant Kan'ren [QT8468 Wanted: Thaelis the Hungerer]
-Then Aeldon Sunbrand turn in [QT8463 Unstable Mana Crystals] and accept [QA9352 Darnassian Intrusions]
+Then Aeldon Sunbrand turn in [QT8463 Unstable Mana Crystals]
 [V] Make sure to equip best equipment and go sell your inventory you don't need at [G48.48,45.9Eversong Woods]
 [T] Learn your Level 6 Skills
 
 ]], "Psytor Leveling Guide")
 
--- V 0.0.1
+-- V 0.2.1
 -- N - Guide Name 
 -- D - Detailed description
 -- *text* - Highlighting

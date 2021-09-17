@@ -5,6 +5,7 @@ Guidelime.registerGuide(
 [N6-13 Psytor Blood Elf - Rogue Guide]
 
 All Credits goes to *Psytor* on Nethergarde Keep.
+Go accept the following quests [QA8895 Delivery to the North Sanctum] & [QA9352 Darnassian Intrusions]
 Head out of the Gate to Ley-Keeper Caidanis to Turn in [QT8895 Delivery to the North Sanctum] and accept the follow up [QA9119 Malfunction at the West Sanctum]
 Keep going to Apprentice Ralen and Accept [QA9035 Roadside Ambush]
 Continu on the main path to Apprentice Meledor Turn In [QT9035 Roadside Ambush] and accept [QA9062 Soaked Pages]
@@ -113,7 +114,7 @@ We are now going back to Fairbreeze Village to Turn In [QT9363 Warning Fairbreez
 Before you complete this guide make sure you have the quest *Missing in the Ghostlands* already
 ]], "Psytor Leveling Guide")
 
--- V 0.0.1
+-- V 0.2.1
 -- N - Guide Name 
 -- D - Detailed description
 -- *text* - Highlighting
