@@ -5,10 +5,10 @@
 ## Dependencies: Guidelime
 ## Notes: Psytor Leveling Guide
 
-1-6_psytor_BE_Hunter.lua
-1-6_psytor_BE_Mage.lua
-1-6_psytor_BE_Paladin.lua
-1-6_psytor_BE_Priest.lua
-1-6_psytor_BE_Rogue.lua
-1-6_psytor_BE_Warlock.lua
-6-13_psytor_BE.lua
+1-7_psytor_BE_Hunter.lua
+1-7_psytor_BE_Mage.lua
+1-7_psytor_BE_Paladin.lua
+1-7_psytor_BE_Priest.lua
+1-7_psytor_BE_Rogue.lua
+1-7_psytor_BE_Warlock.lua
+7-13_psytor_BE.lua

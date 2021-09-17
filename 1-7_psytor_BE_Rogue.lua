@@ -53,6 +53,7 @@ Then to Sergeant Kan'ren [QT8468 Wanted: Thaelis the Hungerer]
 Then Aeldon Sunbrand turn in [QT8463 Unstable Mana Crystals]
 [V] Make sure to equip best equipment and go sell your inventory you don't need at [G48.48,45.9Eversong Woods]
 [T] Learn your Level 6 Skills
+Kill as much things you can to make sure you hit [XP7] - But you can skip this and go to the next guide
 
 ]], "Psytor Leveling Guide")
 
