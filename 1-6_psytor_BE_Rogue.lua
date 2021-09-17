@@ -56,7 +56,7 @@ Then Aeldon Sunbrand turn in [QT8463 Unstable Mana Crystals]
 
 ]], "Psytor Leveling Guide")
 
--- V 0.2.0
+-- V 0.2.1
 -- N - Guide Name 
 -- D - Detailed description
 -- *text* - Highlighting

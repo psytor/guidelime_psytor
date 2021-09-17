@@ -114,7 +114,7 @@ We are now going back to Fairbreeze Village to Turn In [QT9363 Warning Fairbreez
 Before you complete this guide make sure you have the quest *Missing in the Ghostlands* already
 ]], "Psytor Leveling Guide")
 
--- V 0.1.0
+-- V 0.2.1
 -- N - Guide Name 
 -- D - Detailed description
 -- *text* - Highlighting

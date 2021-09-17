@@ -1,6 +1,6 @@
 ## Title: Guidelime - Psytor's Leveling Guides
 ## Author: Psytor
-## Version: 0.2.0-Release
+## Version: 0.2.1-Release
 ## Interface: 20502
 ## Dependencies: Guidelime
 ## Notes: Psytor Leveling Guide
