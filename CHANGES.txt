@@ -1,0 +1,36 @@
+commit 3d315517c103eba935df399646d03cd0e77b0400
+Author: Psytor <psytor@gmail.com>
+Date:   Sun Sep 5 12:00:14 2021 +0200
+
+    - Added information for Tainted Arcane Sliver
+    - Added a sell stuff point
+    - Completed Warlock 1-6
+    
+    Signed-off-by: Psytor <psytor@gmail.com>
+
+commit 075b016e0d6d404bd582202f7a46366f25c7ad05
+Author: Psytor <psytor@gmail.com>
+Date:   Sun Sep 5 10:35:58 2021 +0200
+
+    1-6 Complete apart from Warlock
+
+commit b9eecede9bec5a07f0e2a46ab33e4f2dfe50314c
+Author: psytor <psytor@gmail.com>
+Date:   Sun Sep 5 09:19:02 2021 +0200
+
+    Original Commit
+
+commit cc5a2517d438de97daee48b91a2185c165049a48
+Author: psytor <psytor@gmail.com>
+Date:   Sun Sep 5 09:18:07 2021 +0200
+
+    1-6_psytor_BE_Rogue
+    
+    This is the Original Commit for the BE Rogue
+
+commit dfd2395679429d2ff1a63a52cc0b276e006c5b42
+Author: psytor <psytor@gmail.com>
+Date:   Sun Sep 5 09:07:15 2021 +0200
+
+    Initial commit
+

@@ -3,6 +3,7 @@ Guidelime.registerGuide(
 [D1-6 Blood Elf, Rogue - A guide created by *Psytor*]
 [GA Rogue,BloodElf]
 [N1-6 Psytor Blood Elf - Rogue Guide]
+[NX6-13 Psytor Blood Elf - Rogue Guide]
 
 All Credits goes to *Psytor* on Nethergarde Keep.
 Go to Magistrix Erona and Accept: [QA8325 Reclaiming Sunstrider Isle]
