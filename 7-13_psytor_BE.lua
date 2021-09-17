@@ -14,6 +14,7 @@ Go back to Apprentice Meledor to Turn In [QT9062 Soaked Pages] and accept [QA906
 Keep going on the path to Fairbreeze Village and meet with Velan Brightoak to start a [QA8491 Pelt Collection]
 Now go on the right side of the inn and find Ranger Degolien [G 43.32,70.85Eversong Woods] to accept the quest *Situation at Sunsail Anchorage* - The Pre-Quest is bugged so I cannot use the anchor for now
 Start killing *Springpaw* to start collecting *Springpat pelts*
+Kill as much things you can to make sure you hit [XP7]
 From Fairbreeze Village head to Saltheril's Haven to accept [QA9067 The Party Never Ends]
 Now on your way to find the *Darnassian Scouts* [G 36.78,61.02Eversong Woods]
 After killing the *Darnassian Scout* in your inventory look for *Incriminating Documents* to accept [QA8482 Incriminating Documents]
