@@ -1,8 +1,8 @@
 Guidelime.registerGuide(
 [[
-[D6-13 Blood Elf, Rogue - A guide created by *Psytor*]
-[GA Rogue,BloodElf]
-[N6-13 Psytor Blood Elf - Rogue Guide]
+[D7-13 Blood Elf, Hunter - A guide created by *Psytor*]
+[GA Hunter,BloodElf]
+[N7-13 Psytor Blood Elf - Hunter Guide]
 
 All Credits goes to *Psytor* on Nethergarde Keep.
 Go accept the following quests [QA8895 Delivery to the North Sanctum] & [QA9352 Darnassian Intrusions]

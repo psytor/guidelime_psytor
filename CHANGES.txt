@@ -1,3 +1,41 @@
+commit f5a25aa451f86c6606c27979856acd797d428f1f
+Author: Psytor <psytor@gmail.com>
+Date:   Fri Sep 17 11:18:06 2021 +0200
+
+    Signed-off-by: Psytor <psytor@gmail.com>
+
+commit b545f7a8654c8848c9572aad23d8807787554238
+Author: Psytor <psytor@gmail.com>
+Date:   Fri Sep 17 11:03:18 2021 +0200
+
+    Signed-off-by: Psytor <psytor@gmail.com>
+
+commit 9e8e796ced032fdb7cea311a564a184303a3b9d3
+Author: Psytor <psytor@gmail.com>
+Date:   Fri Sep 17 10:58:09 2021 +0200
+
+    Signed-off-by: Psytor <psytor@gmail.com>
+
+commit fdca6377ef4b928324d626c94af59995246a6347
+Author: Psytor <psytor@gmail.com>
+Date:   Fri Sep 17 10:56:26 2021 +0200
+
+    Signed-off-by: Psytor <psytor@gmail.com>
+
+commit d5bf98c8d5fd74f04ba3401f42fbb3c657d54428
+Author: Psytor <psytor@gmail.com>
+Date:   Fri Sep 17 10:54:44 2021 +0200
+
+    Fixing Rogue 1-6 to 6-13 Transition
+    
+    Signed-off-by: Psytor <psytor@gmail.com>
+
+commit e6c8a6f18456772b709b51f86da800ce5d892ae9
+Author: Psytor <psytor@gmail.com>
+Date:   Fri Sep 17 10:10:54 2021 +0200
+
+    Signed-off-by: Psytor <psytor@gmail.com>
+
 commit 3d315517c103eba935df399646d03cd0e77b0400
 Author: Psytor <psytor@gmail.com>
 Date:   Sun Sep 5 12:00:14 2021 +0200
