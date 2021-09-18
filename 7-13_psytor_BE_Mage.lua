@@ -1,8 +1,9 @@
 Guidelime.registerGuide(
 [[
-[D7-13 Blood Elf, Hunter - A guide created by *Psytor*]
-[GA Hunter,BloodElf]
-[N7-13 Psytor Blood Elf - Hunter Guide]
+[D7-13 Blood Elf, Mage - A guide created by *Psytor*]
+[GA Mage,BloodElf]
+[N7-13 Mage Blood Elf - Mage Guide]
+[NX13-20 Mage Blood Elf - Mage Guide]
 
 All Credits goes to *Psytor* on Nethergarde Keep.
 Go accept the following quests [QA8895 Delivery to the North Sanctum] & [QA9352 Darnassian Intrusions]
@@ -63,18 +64,12 @@ Go up and Turn In [QT8892 Situation at Sunsail Anchorage] and accept [QA9359 Far
 Find *Halis Dawnstrider* and browse his goods to by a *Bundle of Fireworks*
 Let's now head to Ranger Sareyn to Turn In [QT9358 Ranger Sareyn] and accept [QA9252 Defending Fairbreeze Village]
 From here we'll head down to Turn in [QT9066 Swift Discipline] on the way kill some *Rotlimb Marauder*
-You should now be [XP10], otherwise kill stuff until you are
-Since we are close to Silvermoon City let's get the *Hunter lvl 10* quest! Find *Oninath* and Accept [QA9617 Seek the Farstriders]
+Since we are close to Silvermoon City
 Work on your professions, clear your inventory, etc...
 [S] Set your Heartstone in Silvermoon City
 From here let's head to [QT9359 Farstrider Retreat] and accept [QA8476 Amani Encroachment]
 Find *Zalene Firstlight*[G60.40,62.46 Eversong Woods] and browse her goods to buy *Springpaw Appetizer*
 Then accept [QA8477 The Spearcrafter's Hammer] and [QA8888 The Magister's Apprentice]
-For your Hunter's quest Turn In [QT9617 Seek the Farstriders] and Accept the Follow Up [QA9484 Taming the Beast]
-Just outside of Farstrider Retreat find the *Crazed Dragonhawk* and use the Taming Rod in your Inventory [QC9484 Taming the Beast]
-Go back to Turn In [QT9484 Taming the Beast] and Accept the Follow Up [QA9486 Taming the Beast]
-Just outside of Farstrider Retreat find the *Elder Springpaw* and use the Taming Rod in your Inventory [QC9486 Taming the Beast]
-Go back to Turn In [QT9486 Taming the Beast] and Accept the Follow Up [QA9485 Taming the Beast]
 Let's go back to The Dead Scar at the East Sanctum and Turn In [QT9254 The Wayward Apprentice] and Accept [QA8487 Corrupted Soil]
 Kill the Undead needed and get the soils [QC9252 Defending Fairbreeze Village] [QC8487 Corrupted Soil]
 Go back to Turn In to [QT8487 Corrupted Soil]
@@ -91,13 +86,11 @@ Return and Turn In [QT8474 Old Whitebark's Pendant] and [QT8473 A Somber Task] a
 Let's go to the Rune Stone in The Scorched Grove [G37.22,86.39Eversong Woods]
 Now open your Inventory and Activate the *Old Whitebark's Pendant* and attack Withebark's Spirit until you can talk to him and Turn In [QT10166 Whitebark's Memory]
 Let's go visit the Runewarden Deryan and Turn In [QT9253 Runewarden Deryan] and Accept the Follow Up [QA8490 Powering our Defenses]
-Let's go [G55.3,84.3Eversong Woods][QC8490 Powering our Defenses] - This is a protect quest - Stay Alive until Completion - Activate the Infused Crystal in your inventory
-Once you are done, on your way back to Runwarden Deryan, take the road south in direction to Ghostlands, to find Mistbat for [QC9485 Taming the Beast] and tame it
+Let's go [G55.3,84.3Eversong Woods][QC8490 Powering our Defenses] - This is a protect quest - Stay Alive until Completion - Activate the Infused Crystal in your inventory 
 Return to Runwarden Deryan and Turn In [QT8490 Powering our Defenses]
-On your way to your next Quest Line let's head back to Farstrider Retreat and Turn In [QT9485 Taming the Beast] and Accept the Follow Up [QA9673 Beast Training]
 Time to go back to [H] Silvermoon use your Hearthstone
-Go Turn in [QT9673 Beast Training] - Congratulation you now can tame animals!
-Let's now go to Apprentice Apprentice Loralthalis [QT8888 The Magister's Apprentice]
+[V] Sell your stuff - Work your professions and let's head back out when ready
+Let's now go to Apprentice Loralthalis [QT8888 The Magister's Apprentice]
 Accept the quests from Apprentice Loralthalis [QA8889 Deactivating the Spire] [QA9394 Where's Wyllithen?]
 And now [QT9394 Where's Wyllithen?] Once you found him Accept [QA8894 Cleaning up the Grounds]
 Go to [G68.92,51.98 Eversong Woods] while killing stuff and use the *Orb of Translocation*
@@ -118,4 +111,5 @@ We are now going back to Fairbreeze Village to Turn In [QT9363 Warning Fairbreez
 Before you complete this guide make sure you have the quest *Missing in the Ghostlands* already
 ]], "Psytor Leveling Guide")
 
--- V 0.1.2
+-- V 0.2.5
+-- Fixed a Typo

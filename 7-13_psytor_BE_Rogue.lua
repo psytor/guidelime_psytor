@@ -91,7 +91,7 @@ Now open your Inventory and Activate the *Old Whitebark's Pendant* and attack Wi
 Let's go visit the Runewarden Deryan and Turn In [QT9253 Runewarden Deryan] and Accept the Follow Up [QA8490 Powering our Defenses]
 Let's go [G55.3,84.3Eversong Woods][QC8490 Powering our Defenses] - This is a protect quest - Stay Alive until Completion - Activate the Infused Crystal in your inventory 
 Return to Runwarden Deryan and Turn In [QT8490 Powering our Defenses]
-Time to go back to [H] Silvermoon user your Hearthstone
+Time to go back to [H] Silvermoon use your Hearthstone
 Go Turn in [QT9618 Return the Reports]
 [V] Sell your stuff - Work your professions and let's head back out when ready
 Let's now go to Apprentice Loralthalis [QT8888 The Magister's Apprentice]
@@ -115,19 +115,5 @@ We are now going back to Fairbreeze Village to Turn In [QT9363 Warning Fairbreez
 Before you complete this guide make sure you have the quest *Missing in the Ghostlands* already
 ]], "Psytor Leveling Guide")
 
--- V 0.2.4
--- N - Guide Name 
--- D - Detailed description
--- *text* - Highlighting
--- GA - Affiliation or/and Class or/and Race
--- NX - Set Next Guide to load when completed
--- [QA### Title] Accept quest
--- [QC### Title] Progress
--- [QT### Title] Turn In
--- [G ##.##,##.## Area] Location
--- [H] Heartstone Sign
--- [T] Visit Trainer
--- [V] Vendor
--- [P] Get New Flight Point
--- [F] Fly to
--- [S] Set Hearthstone
+-- V 0.2.5
+-- Fixed a Typo
