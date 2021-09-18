@@ -1,8 +1,8 @@
 Guidelime.registerGuide(
 [[
-[D1-6 Blood Elf, Paladin - A guide created by *Psytor*]
+[D1-7 Blood Elf, Paladin - A guide created by *Psytor*]
 [GA Paladin,BloodElf]
-[N1-6 Psytor Blood Elf - Paladin Guide]
+[N1-7 Psytor Blood Elf - Paladin Guide]
 
 All Credits goes to *Psytor* on Nethergarde Keep.
 Go to Magistrix Erona and Accept: [QA8325 Reclaiming Sunstrider Isle]

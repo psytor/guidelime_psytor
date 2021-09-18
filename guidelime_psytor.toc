@@ -1,6 +1,6 @@
 ## Title: Guidelime - Psytor's Leveling Guides
 ## Author: Psytor
-## Version: 0.2.1-Release
+## Version: 0.2.4-Release
 ## Interface: 20502
 ## Dependencies: Guidelime
 ## Notes: Psytor Leveling Guide
@@ -11,4 +11,5 @@
 1-7_psytor_BE_Priest.lua
 1-7_psytor_BE_Rogue.lua
 1-7_psytor_BE_Warlock.lua
-7-13_psytor_BE.lua
+7-13_psytor_BE_Rogue.lua
+7-13_psytor_BE_Hunter.lua
