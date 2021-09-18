@@ -3,6 +3,8 @@ Guidelime.registerGuide(
 [D1-7 Blood Elf, Priest - A guide created by *Psytor*]
 [GA Priest,BloodElf]
 [N1-7 Psytor Blood Elf - Priest Guide]
+[NX7-13 Psytor Blood Elf - Priest Guide]
+
 
 All Credits goes to *Psytor* on Nethergarde Keep.
 Go to Magistrix Erona and Accept: [QA8325 Reclaiming Sunstrider Isle]
@@ -54,19 +56,5 @@ Then Aeldon Sunbrand turn in [QT8463 Unstable Mana Crystals] and accept [QA9352 
 
 ]], "Psytor Leveling Guide")
 
--- V 0.0.1
--- N - Guide Name 
--- D - Detailed description
--- *text* - Highlighting
--- GA - Affiliation or/and Class or/and Race
--- NX - Set Next Guide to load when completed
--- [QA### Title] Accept quest
--- [QC### Title] Progress
--- [QT### Title] Turn In
--- [G ##.##,##.## Area] Location
--- [H] Heartstone Sign
--- [T] Visit Trainer
--- [V] Vendor
--- [P] Get New Flight Point
--- [F] Fly to
--- [S] Set Hearthstone
+-- V 0.1.0
+-- Fixing Next

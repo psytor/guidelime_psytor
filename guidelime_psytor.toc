@@ -13,4 +13,6 @@
 1-7_psytor_BE_Warlock.lua
 7-13_psytor_BE_Rogue.lua
 7-13_psytor_BE_Hunter.lua
-7-13_psytor_BE_Mage.lua
+7-13_psytor_BE_MagePaladin.lua
+7-13_psytor_BE_Priest.lua
+7-13_psytor_BE_Warlock.lua
