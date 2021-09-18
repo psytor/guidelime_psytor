@@ -57,19 +57,5 @@ Kill as much things you can to make sure you hit [XP7] - But you can skip this a
 
 ]], "Psytor Leveling Guide")
 
--- V 0.2.1
--- N - Guide Name 
--- D - Detailed description
--- *text* - Highlighting
--- GA - Affiliation or/and Class or/and Race
--- NX - Set Next Guide to load when completed
--- [QA### Title] Accept quest
--- [QC### Title] Progress
--- [QT### Title] Turn In
--- [G ##.##,##.## Area] Location
--- [H] Heartstone Sign
--- [T] Visit Trainer
--- [V] Vendor
--- [P] Get New Flight Point
--- [F] Fly to
--- [S] Set Hearthstone
+-- V 0.1.0
+-- Fixing Next
