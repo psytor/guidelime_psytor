@@ -1,8 +1,8 @@
 Guidelime.registerGuide(
 [[
-[D7-13 Blood Elf, Rogue - A guide created by *Psytor*]
+[D6-13 Blood Elf, Rogue - A guide created by *Psytor*]
 [GA Rogue,BloodElf]
-[N7-13 Psytor Blood Elf - Rogue Guide]
+[N6-13 Psytor Blood Elf - Rogue Guide]
 
 All Credits goes to *Psytor* on Nethergarde Keep.
 Go accept the following quests [QA8895 Delivery to the North Sanctum] & [QA9352 Darnassian Intrusions]
@@ -94,7 +94,7 @@ Return to Runwarden Deryan and Turn In [QT8490 Powering our Defenses]
 Time to go back to [H] Silvermoon user your Hearthstone
 Go Turn in [QT9618 Return the Reports]
 [V] Sell your stuff - Work your professions and let's head back out when ready
-Let's now go to Apprentice Apprentice Loralthalis [QT8888 The Magister's Apprentice]
+Let's now go to Apprentice Loralthalis [QT8888 The Magister's Apprentice]
 Accept the quests from Apprentice Loralthalis [QA8889 Deactivating the Spire] [QA9394 Where's Wyllithen?]
 And now [QT9394 Where's Wyllithen?] Once you found him Accept [QA8894 Cleaning up the Grounds]
 Go to [G68.92,51.98 Eversong Woods] while killing stuff and use the *Orb of Translocation*
