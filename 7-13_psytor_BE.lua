@@ -89,7 +89,7 @@ Return and Turn In [QT8474 Old Whitebark's Pendant] and [QT8473 A Somber Task] a
 Let's go to the Rune Stone in The Scorched Grove [G37.22,86.39Eversong Woods]
 Now open your Inventory and Activate the *Old Whitebark's Pendant* and attack Withebark's Spirit until you can talk to him and Turn In [QT10166 Whitebark's Memory]
 Let's go visit the Runewarden Deryan and Turn In [QT9253 Runewarden Deryan] and Accept the Follow Up [QA8490 Powering our Defenses]
-Let's go [QC8490 Powering our Defenses] - This is a protect quest - Stay Alive until Completion
+Let's go [G55.3,84.3Eversong Woods][QC8490 Powering our Defenses] - This is a protect quest - Stay Alive until Completion - Activate the Infused Crystal in your inventory 
 Return to Runwarden Deryan and Turn In [QT8490 Powering our Defenses]
 Time to go back to [H] Silvermoon user your Hearthstone
 Go Turn in [QT9618 Return the Reports]
@@ -115,7 +115,7 @@ We are now going back to Fairbreeze Village to Turn In [QT9363 Warning Fairbreez
 Before you complete this guide make sure you have the quest *Missing in the Ghostlands* already
 ]], "Psytor Leveling Guide")
 
--- V 0.2.2
+-- V 0.2.3
 -- N - Guide Name 
 -- D - Detailed description
 -- *text* - Highlighting
