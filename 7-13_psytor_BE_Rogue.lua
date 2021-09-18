@@ -1,8 +1,8 @@
 Guidelime.registerGuide(
 [[
-[D6-13 Blood Elf, Rogue - A guide created by *Psytor*]
+[D7-13 Blood Elf, Rogue - A guide created by *Psytor*]
 [GA Rogue,BloodElf]
-[N6-13 Psytor Blood Elf - Rogue Guide]
+[N7-13 Psytor Blood Elf - Rogue Guide]
 
 All Credits goes to *Psytor* on Nethergarde Keep.
 Go accept the following quests [QA8895 Delivery to the North Sanctum] & [QA9352 Darnassian Intrusions]
@@ -80,7 +80,7 @@ Let's head in the direction of Fairbreeze to Turn In [QT9252 Defending Fairbreez
 Then to Fairbreeze Village to Turn In [QT9255 Research Notes] and Accept [QA9144 Missing in the Ghostlands]
 Then let's go to the Saltheril's Estate to finally Turn In [QT9067 The Party Never Ends]
 Let's keep going to Larianna Riverwind Turn In [QT9258 The Scorched Grove] and accept [QA8473 A Somber Task]
-On you way to kill Green keepers find *Old Whitebark*[G35.11, 83.98 Eversong Woods] and loot his Pendant to start [QA8474 Old Whitebark's Pendant]
+On your way to kill Green keepers find *Old Whitebark*[G35.11, 83.98 Eversong Woods] and loot his Pendant to start [QA8474 Old Whitebark's Pendant]
 Cross The Scorched Grove while killing *Green Keepers* and head to [QT9532 Find Keltus Darkleaf] and accept the Follow Up [QA9460 Combining Forces]
 Now go pickpocket Lacy's Handkerchief for [QC9460 Combining Forces]
 Return to Turn In [QT9460 Combining Forces] and accept follow up [QA9618 Return the Reports]
@@ -115,7 +115,7 @@ We are now going back to Fairbreeze Village to Turn In [QT9363 Warning Fairbreez
 Before you complete this guide make sure you have the quest *Missing in the Ghostlands* already
 ]], "Psytor Leveling Guide")
 
--- V 0.2.3
+-- V 0.2.4
 -- N - Guide Name 
 -- D - Detailed description
 -- *text* - Highlighting
