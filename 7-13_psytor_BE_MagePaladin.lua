@@ -3,8 +3,7 @@ Guidelime.registerGuide(
 [D7-13 Blood Elf, Mage & Paladin - A guide created by *Psytor*]
 [GA Mage,Paladin,BloodElf]
 [N7-13 Psytor Blood Elf - Mage & Paladin Guide]
-[NX13-20 Psytor Blood Elf - Mage Guide]
-[NX13-20 Psytor Blood Elf - Paladin Guide]
+[NX13-20 Psytor Blood Elf - Guide]
 
 All Credits goes to *Psytor* on Nethergarde Keep.
 Go accept the following quests [QA8895 Delivery to the North Sanctum] & [QA9352 Darnassian Intrusions]
