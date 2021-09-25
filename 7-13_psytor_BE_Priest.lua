@@ -3,6 +3,7 @@ Guidelime.registerGuide(
 [D7-13 Blood Elf, Priest - A guide created by *Psytor*]
 [GA Priest,BloodElf]
 [N7-13 Psytor Blood Elf - Priest Guide]
+[NX13-20 Psytor Blood Elf - Guide]
 
 All Credits goes to *Psytor* on Nethergarde Keep.
 Let's start with your Class Quest go Accept [QA9489 Cleansing the Scar]
@@ -114,5 +115,7 @@ Before you complete this guide make sure you have the quest *Missing in the Ghos
 ]], "Psytor Leveling Guide")
 
 
+-- V 0.1.1
+-- Adding Next
 -- V 0.1.0
 -- First Priest Configuration

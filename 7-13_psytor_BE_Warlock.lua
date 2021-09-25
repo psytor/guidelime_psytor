@@ -3,7 +3,7 @@ Guidelime.registerGuide(
 [D7-13 Blood Elf, Warlock - A guide created by *Psytor*]
 [GA Warlock,BloodElf]
 [N7-13 Psytor Blood Elf - Warlock Guide]
-
+[NX13-20 Psytor Blood Elf - Guide]
 
 All Credits goes to *Psytor* on Nethergarde Keep.
 Go accept the following quests [QA8895 Delivery to the North Sanctum] & [QA9352 Darnassian Intrusions]
@@ -116,6 +116,8 @@ Before you complete this guide make sure you have the quest *Missing in the Ghos
 ]], "Psytor Leveling Guide")
 
 
+-- V 0.1.3
+-- Adding Next
 -- V 0.1.2
 -- Added Paladin to this Guide
 -- V 0.1.1
