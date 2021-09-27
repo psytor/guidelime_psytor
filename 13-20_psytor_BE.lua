@@ -126,8 +126,9 @@ Then head to the Sanctum of Sun to Turn In [QT9220 War on Deatholme]
 Accept the Follow Up [QA9170 Dar'Khan's Lieutenants] and [QA9877 A Restorative Draught]
 Head back to Tranquillien to Turn In [QT9877 A Restorative Draught] and Accept Turn In [QA9164 Captives at Deatholme]
 In Deatholme [G31.7, 73.6Ghostlands] Go inside that crypt to kill *Jurian The Deceiver* and save *Apothecary Enith*
-Next go to [G30, 87.8Ghostlands] In that crypt kill *Masophet the Black*
+If he's not here keep going, Next go to [G30, 87.8Ghostlands] In that crypt kill *Masophet the Black*
 Now [G32.8, 88.7Ghostlands] In that crypt kill *Borgoth The Loveletter* and save *Ranger Vedoran*
+If *Masophet the Black* was not at the first location he's here [G35.15,88.13Ghostlands]
 Next up the hill [G39.8, 83.4Ghostlands] to save *Apprentice Varnis*
 Now just inside [G37.5,79.3Ghostlands] kill *Mirdoran the Fallen*
 Make sure this is completed [QC9170 Dar'Khan's Lieutenants] and [QC9164 Captives at Deatholme]
